@@ -7,8 +7,12 @@ Download: https://github.com/python-xlib/python-xlib.git
 
 Installation: python setup.py install
 
-
+<br><br>
 
 Change the file.log path before running the keylogger
 
+
 To run the keylogger: python pylogger.py
+
+
+The program stops when ``backtick (`)`` is pressed
