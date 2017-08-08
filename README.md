@@ -17,3 +17,6 @@ To run the keylogger: python pylogger.py
 
 
 The program stops when ``backtick (`)`` is pressed
+
+
+There seems to be an issue where file.log is not created will be fixed soon
